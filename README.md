@@ -1,1 +1,1 @@
-# Module name
+# Huawei Cloud DCS Redis Single node
