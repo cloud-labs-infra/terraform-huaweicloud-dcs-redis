@@ -50,6 +50,8 @@ No modules.
 |------|-------------|
 | <a name="output_domain_name"></a> [domain\_name](#output\_domain\_name) | Domain name of the instance |
 | <a name="output_id"></a> [id](#output\_id) | A resource ID in UUID format |
+| <a name="output_ip_address"></a> [ip\_address](#output\_ip\_address) | IP Address of Redis instance |
 | <a name="output_max_memory"></a> [max\_memory](#output\_max\_memory) | Total memory size in MB |
+| <a name="output_port"></a> [port](#output\_port) | Port of Redis instance |
 | <a name="output_status"></a> [status](#output\_status) | Cache instance status |
 <!-- END_TF_DOCS -->
