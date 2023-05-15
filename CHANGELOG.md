@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/compare/v1.0.0...v1.1.0) (2023-05-15)
+
+
+### Features
+
+* Add IP addr and Port of Redis to output ([#2](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/issues/2)) ([d87c62d](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/commit/d87c62da944c2b0d8e22cd496fb42d158e616143))
+
 ## 1.0.0 (2023-04-12)
 
 
