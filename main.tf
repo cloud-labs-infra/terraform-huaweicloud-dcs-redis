@@ -40,8 +40,8 @@ resource "huaweicloud_dcs_instance" "main" {
   dynamic "whitelists" {
     for_each = var.whitelist
     content {
-      group_name = each.key
-      ip_address = each.value
+      group_name = whitelists.key
+      ip_address = whitelists.value
     }
   }
 
