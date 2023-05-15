@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.1.1](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/compare/v1.1.0...v1.1.1) (2023-05-15)
+
+
+### Bug Fixes
+
+* Fix whitelist creation ([#3](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/issues/3)) ([b3e84bf](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/commit/b3e84bf03e39e50cd12a4d2c67bea79c27c162e1))
+
 ## [1.1.0](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/compare/v1.0.0...v1.1.0) (2023-05-15)
 
 
