@@ -37,8 +37,8 @@ variable "engine_version" {
   type        = string
   default     = "5.0"
   validation {
-    condition     = contains(["4.0", "5.0"], var.engine_version)
-    error_message = "The value can be 4.0, or 5.0."
+    condition     = contains(["4.0", "5.0", "6.0"], var.engine_version)
+    error_message = "The value can be 4.0, 5.0 or 6.0."
   }
 }
 
