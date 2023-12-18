@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.0](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/compare/v1.1.1...v1.2.0) (2023-12-18)
+
+
+### Features
+
+* Add Redis engine version 6.0 ([#7](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/issues/7)) ([be8b2c8](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/commit/be8b2c84769660b721993e5042524cb63332f951))
+
 ### [1.1.1](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/compare/v1.1.0...v1.1.1) (2023-05-15)
 
 
