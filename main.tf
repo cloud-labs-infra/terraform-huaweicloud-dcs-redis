@@ -3,12 +3,12 @@ data "huaweicloud_availability_zones" "zones" {
 }
 
 data "huaweicloud_dcs_flavors" "flavors" {
-  region         = var.region
-  cache_mode     = "single"
-  capacity       = var.capacity
-  engine         = local.engine
-  engine_version = var.engine_version
-
+  region           = var.region
+  cache_mode       = "single"
+  capacity         = var.capacity
+  engine           = local.engine
+  engine_version   = var.engine_version
+  cpu_architecture = var.cpu_architecture
 }
 
 locals {

@@ -31,6 +31,7 @@ No modules.
 |------|-------------|------|---------|:--------:|
 | <a name="input_availability_zones"></a> [availability\_zones](#input\_availability\_zones) | Specifies the AZ name, if omitted, AZ calculates automatically | `list(string)` | `[]` | no |
 | <a name="input_capacity"></a> [capacity](#input\_capacity) | Specifies the cache capacity in GB | `number` | `0.5` | no |
+| <a name="input_cpu_architecture"></a> [cpu\_architecture](#input\_cpu\_architecture) | The CPU architecture of cache instance | `string` | `"x86_64"` | no |
 | <a name="input_description"></a> [description](#input\_description) | Specifies the description of an instance | `string` | `null` | no |
 | <a name="input_engine_version"></a> [engine\_version](#input\_engine\_version) | Specifies the version of a Redis engine | `string` | `"5.0"` | no |
 | <a name="input_name"></a> [name](#input\_name) | Specifies the instance name | `string` | n/a | yes |
