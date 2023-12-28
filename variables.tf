@@ -101,3 +101,13 @@ variable "tags" {
   type        = map(string)
   default     = {}
 }
+
+variable "cpu_architecture" {
+  description = "The CPU architecture of cache instance"
+  type        = string
+  default     = "x86_64"
+  validation {
+    condition     = contains(["x86_64", "aarch64"], var.cpu_architecture)
+    error_message = "Valid values are x86_64, aarch64"
+  }
+}
