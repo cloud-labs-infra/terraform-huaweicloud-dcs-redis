@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.0](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/compare/v1.2.0...v1.3.0) (2023-12-28)
+
+
+### Features
+
+* Add cpu_architecture argument ([#8](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/issues/8)) ([943d964](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/commit/943d9642f2fd6e59393cade89df07503f94c7da2))
+
 ## [1.2.0](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/compare/v1.1.1...v1.2.0) (2023-12-18)
 
 
