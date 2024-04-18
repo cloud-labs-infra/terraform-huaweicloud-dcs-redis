@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.4.0](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/compare/v1.3.0...v1.4.0) (2024-04-18)
+
+
+### Features
+
+* Update version of tf and providers ([#9](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/issues/9)) ([3a06b1d](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/commit/3a06b1d6906284c3b39dccdca844919702be0477))
+
 ## [1.3.0](https://github.com/cloud-labs-infra/terraform-huaweicloud-dcs-redis/compare/v1.2.0...v1.3.0) (2023-12-28)
 
 
